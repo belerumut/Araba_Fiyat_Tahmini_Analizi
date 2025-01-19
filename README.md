@@ -40,7 +40,7 @@ Aşağıda verilen korelasyon matrisine göre current price-km arasında oldukç
   Eğitim Zamanı: 0.0062 saniye
   
   R2 score ve hata oranı değerleri gayet güzel gözükmekte, mse ve rmse değerlerinin bu kadar büyük çıkmasının sebebi current price değişkenimizin verilerinin 100.000-800.000 aralığında olmasından kaynaklıdır.  
-![Lineer Regresyon](lineer_regresyon_grafik.png)
+![Lineer Regresyon](lineer regresyon grafik.png)
 Grafikten de anlaşılacağı üzere model gayet güzel çalışmaktadır, modelin tahminleri gerçek değerlere yakın değerlerdir.
 
   ####2.Random Forest
