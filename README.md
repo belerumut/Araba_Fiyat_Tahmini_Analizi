@@ -1,6 +1,8 @@
 # Araba Fiyat Tahmini Analizi
 
 **Çalışmanın video linki:** [YouTube Video](https://www.youtube.com/watch?v=xmD_rws08qM&t=2s)
+**Kullanılan veri seti linki:**[Veri Seti](https://www.kaggle.com/datasets/muhammadirfanmalik/cars-brands-data-set-2nd-hand-regression-dataset/)
+Kullanılan veri seti aynı zamanda car_dataset.csv olarak indirilip repoya yüklenmiştir.
 
 ## Veri Seti ve Algoritmaların Analizi
 
