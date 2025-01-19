@@ -100,7 +100,7 @@ Modeller arasındaki farklar oldukça küçüktür ve her biri gayet başarılı
 - **XGBoost Tahmini:** 364,700.16
 - **Gerçek Fiyat:** 351,318
 
-#### Yeni Veri ile Tahminler:
+#### Veri ile Tahminler:
 - **Lineer Regresyon Tahmini:** 280,386.72
 - **Random Forest Tahmini:** 283,688.99
 - **XGBoost Tahmini:** 287,435.10
