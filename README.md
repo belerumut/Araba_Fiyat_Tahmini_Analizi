@@ -88,6 +88,9 @@ Grafikten de anlaşılacağı üzere, XGBoost modelinin tahminleri gerçek değe
 Algoritmaları karşılaştıracak olursak:
 - MSE, RMSE, R² Score, hata oranı ve çalışma zamanı verileri göz önüne alındığında **Lineer Regresyon** en iyi sonuçları vermektedir.
 - Ardından **XGBoost**, ve son olarak **Random Forest** gelmektedir.
+
+![Tüm Modeller Birlikte](tüm_algoritmalar_birlikte.png)
+Yukarıdaki grafik ile 3 modelin de verilerini birlikte görüyoruz. 3 model de gerçek değerlere yakın sonuçlar vermektedir.
   
 Modeller arasındaki farklar oldukça küçüktür ve her biri gayet başarılıdır. Ancak, rasgele verilerle yapılan tahminlerde **Random Forest** algoritması daha doğru sonuçlar vermiştir. Bu nedenle **Random Forest** algoritması tercih edilebilir.
 
